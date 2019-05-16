@@ -1,0 +1,16 @@
+# Truffle
+build
+
+# Node
+package-lock.json
+
+# Mac specific
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+#Environment variables
+.env
